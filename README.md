@@ -1,5 +1,7 @@
 # CertificateStudy
 
+[개발자 소개 · 전체 프로젝트](https://github.com/nakk3975/TripPlan/blob/main/PORTFOLIO.md)
+
 > 학습 기록 · 정보처리산업기사
 
 정보처리산업기사 시험을 준비하면서 학습한 내용을 과목별로 정리한 저장소입니다.
